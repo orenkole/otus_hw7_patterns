@@ -30,7 +30,7 @@ const getCellBoxStyle = (args: {
   "& .active": {
     position: "absolute",
     borderRadius: "50%",
-    backgroundColor: "rgba(0, 255, 0, 0.3)",
+    backgroundColor: "rgba(0, 0, 0, 0.3)",
     width: "100px",
     height: "100px",
     marginTop: "-50px",
