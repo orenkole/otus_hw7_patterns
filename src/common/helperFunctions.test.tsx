@@ -125,8 +125,6 @@ describe('update field', () => {
   test('change filling percentage', () => {
     expect(
       updateFilling({
-        width: 2,
-        height: 2,
         prevFieldInfo: FieldMock,
         fillingPercentage: 50,
       })
